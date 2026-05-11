@@ -26,6 +26,6 @@ dist-ssr
 # Backend & Secrets
 server/
 .env
-src/lib/
+
 
 
